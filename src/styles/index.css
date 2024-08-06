@@ -1,0 +1,6 @@
+/* header with 3rem font size and color red */
+h1 {
+    font-size: 3rem;
+    color: red;
+    background-color: aquamarine;
+}   
